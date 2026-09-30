@@ -1,0 +1,609 @@
+* {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.logo {
+    display: flex;
+    padding-left: 150px;
+}
+
+li {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 80px;
+    vertical-align: middle;
+    color: #99A2AA;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navmenu {
+    padding-left: 150px;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.mainmenu {
+    padding-left: 150px;
+    line-height: 50px;
+    background-color: #FEC524;
+    width: 100%;
+    height: 500px;
+}
+
+.mainmenu h1 {
+    padding-top: 50px;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 60px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: white;
+}
+
+.mainmenu input {
+    width: 570px;
+    height: 52px;
+    top: 30.5px;
+    left: 15px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 10px;
+}
+
+.mainmenu button {
+    width: 270px;
+    height: 60px;
+    top: 132px;
+    left: 15px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    color: #99A2AA;
+
+}
+
+.buttons {
+    display: flex;
+    padding-top: 20px;
+    gap: 30px;
+    justify-content: flex-start;
+}
+
+.poslugy {
+    display: flex;
+    padding-left: 150px;
+    padding-top: 50px;
+    line-height: 50px;
+    flex-direction: column;
+}
+
+.poslugy h1 {
+    font-family: Rubik;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    leading-trim: NONE;
+    line-height: 60px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #0E2F4B;
+}
+
+.poslugy p {
+    font-family: Open Sans;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 30px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+}
+
+.divcont1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: -370px;
+    gap: 100px;
+    color: #0E2F4B;
+
+}
+
+.divcont2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding-right: 200px;
+    margin-top: -670px;
+    gap: 100px;
+    font-family: Rubik;
+    font-weight: 400;
+    font-style: Bold;
+    leading-trim: NONE;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #0E2F4B;
+
+}
+
+.div2incon {
+    width: 190px;
+}
+
+.div2incon2 {
+    width: 190px;
+}
+
+.successbusiness {
+    margin-top: 150px;
+    line-height: 40px;
+    display: flex;
+    background-color: #042C4B;
+    height: 600px;
+}
+
+.businessinside {
+    line-height: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 150px;
+}
+
+.businessinside h1 {
+    color: #F8F8F8;
+    font-family: Rubik;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    leading-trim: NONE;
+    line-height: 60px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+}
+
+.businessinside p {
+    line-height: 60px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #99A2AA;
+    line-height: 0px
+}
+
+.businessinside button {
+    line-height: 80px;
+    width: 305px;
+    height: 80px;
+    top: 280px;
+    left: 30px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 10px;
+    background-color: #FDC13D;
+    color: #0E2F4B;
+    font-size: 24px;
+}
+
+.radius10div {
+    padding: 30px;
+    display: flex;
+    margin-top: 200px;
+    width: 1170px;
+    height: 220px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 10px;
+    background-color: #FDC13D;
+    flex-direction: column;
+
+}
+
+.mainradius {
+    display: flex;
+    justify-content: center;
+}
+
+.finance {
+    line-height: 70px;
+    padding-top: 150px;
+    display: flex;
+    padding-left: 150px;
+}
+
+.finance h1 {
+    line-height: 70px;
+    font-family: Rubik;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    leading-trim: NONE;
+    line-height: 60px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #0E2F4B;
+}
+
+.financemainof3 {
+    padding-top: 40px;
+    padding-left: 150px;
+    display: flex;
+    flex-direction: row;
+    gap: 200px;
+}
+
+.lastblue {
+    margin-top: 300px;
+    padding: 50px;
+    padding-left: 150px;
+    background-color: #042C4B;
+    width: 1440;
+    height: 635;
+    top: 2930px;
+    angle: 0 deg;
+    opacity: 1;
+}
+
+.lastblue h1 {
+    color: white;
+    font-family: Rubik;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    leading-trim: NONE;
+    line-height: 60px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+}
+
+.lastblue p {
+    font-family: Open Sans;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    leading-trim: NONE;
+    line-height: 30px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #99A2AA;
+
+}
+
+.lastbluemain input {
+    width: 505.9800109863281px;
+    height: 78px;
+    top: 256px;
+    left: 16px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 10px;
+    border-width: 1px;
+    padding-left: 50px;
+}
+
+.lastbluemain button {
+    width: 220px;
+    height: 70px;
+    top: 255px;
+    left: 532.98px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 10px;
+    margin-left: 150px;
+    margin-top: 30px;
+    font-family: Rubik;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 20px;
+    leading-trim: NONE;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color: #0E2F4B;
+    background-color: #FDC13D;
+}
+
+.finalh1 {
+    padding-left: 150px;
+    padding-top: 150px;
+    font-family: Rubik;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    leading-trim: NONE;
+    line-height: 60px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #042C4B;
+}
+
+.conteiner {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.newscard img {
+    width: 100px;
+    height: 100px;
+    top: 30px;
+    left: 30px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 50px;
+}
+
+
+.newscard {
+    margin: 50px;
+}
+
+.card1 {
+    border-radius: 10px;
+    background-color: #F8F8F8;
+}
+
+.date {
+    font-family: Open Sans;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 14px;
+    leading-trim: NONE;
+    line-height: 24px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #99A2AA;
+    padding-left: 150px;
+
+}
+
+.conteiner {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding-left: 150px;
+}
+
+.card2 {
+    gap: 20px;
+    border-radius: 10px;
+    background-color: #F8F8F8;
+}
+
+.final {
+    padding-left: 150px;
+    padding-top: 150px;
+    font-family: Rubik;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    leading-trim: NONE;
+    line-height: 60px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #042C4B;
+}
+
+.parent {
+    padding-left: 150px;
+    padding-top: 70px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+
+.div1 {
+    grid-area: 1 / 1 / 3 / 4;
+    font-family: Rubik;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 32px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #99A2AA;
+    width: 370px;
+    height: 92px;
+
+}
+
+.div2 {
+    grid-area: 1 / 2 / 2 / 3;
+    width: 370px;
+    height: 92px;
+    font-family: Rubik;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 32px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #99A2AA;
+}
+
+.div3 {
+    grid-area: 1 / 3 / 2 / 4;
+    width: 370px;
+    height: 92px;
+    font-family: Rubik;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 32px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #99A2AA;
+}
+
+.div4 {
+    grid-area: 2 / 3 / 3 / 4;
+    width: 370px;
+    height: 92px;
+    font-family: Rubik;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 32px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #99A2AA;
+}
+
+.div5 {
+    grid-area: 2 / 2 / 3 / 3;
+    width: 370px;
+    height: 92px;
+    font-family: Rubik;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 32px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #99A2AA;
+}
+
+.div6 {
+    grid-area: 2 / 1 / 3 / 2;
+    width: 370px;
+    height: 92px;
+    font-family: Rubik;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 32px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #99A2AA;
+}
+
+.finalblock {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #FEC524;
+    width: 100%;
+    height: 500px;
+    padding-left: 150px;
+}
+
+.finalblock h1 {
+    color: white;
+    font-family: Rubik;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    leading-trim: NONE;
+    letter-spacing: 0%;
+    vertical-align: middle;
+
+}
+
+.footercontainer {
+    padding: 200px 150px 30px;
+    background-color: #1D2023;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 40px;
+    box-sizing: border-box;
+}
+
+.footercontainer h3 {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.info h3 {
+    color: white;
+}
+
+.info p {
+    font-family: Rubik;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    leading-trim: NONE;
+    line-height: 24px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #99A2AA;
+}
+
+.poslugy {
+    color: white;
+}
+
+.poslugy p {
+    font-family: Rubik;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    leading-trim: NONE;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #99A2AA;
+    padding-bottom: 0px;
+}
+
+.finance {
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.finance p {
+    font-family: Rubik;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #99A2AA;
+    margin: 0 0 16px 0;
+    padding: 0;
+}
+
+.other h3{
+    color: white;
+}
+
+.other p{
+    font-family: Rubik;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    leading-trim: NONE;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    color: #99A2AA;
+
+}
+
+.info,
+.poslugy,
+.finance,
+.other {
+    margin-top: 0;
+    padding-top: 0;
+    align-self: flex-start;
+}
+
+.footercontainer h3 {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
